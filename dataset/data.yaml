@@ -1,0 +1,7 @@
+path: D:/code/python/TGMT/People_Counting_Project/dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['person']
